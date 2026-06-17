@@ -6,238 +6,162 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-purple?style=for-the-badge)
 
+## 📌 Project Overview
 
-# 📌 Project Overview
+This project analyzes **Swiggy food delivery sales data** using Python-based data analytics techniques to uncover meaningful business insights.
 
-This project focuses on analyzing **Swiggy food delivery sales data** to uncover meaningful business insights using **Exploratory Data Analysis (EDA)** and interactive visualizations.
-
-The objective of this analysis is to understand:
-
-- 📈 Sales performance trends
-- 🍕 Food category contribution
-- 🌎 State & city-wise revenue distribution
-- ⭐ Customer rating behavior
-- 🛒 Order performance patterns
-- 📊 Key business performance indicators
-
+The project focuses on understanding sales trends, customer preferences, food category performance, and regional revenue contribution through **Exploratory Data Analysis (EDA)** and interactive visualizations.
 
 ---
 
-# 🎯 Problem Statement
+## 🎯 Business Problem
 
-The goal of this project is to analyze Swiggy's sales dataset and answer important business questions:
+Food delivery platforms generate large amounts of sales data. This analysis aims to answer:
 
-> "How can sales data be analyzed to identify growth opportunities, customer preferences, and regional performance?"
+**"How can sales data be analyzed to identify growth opportunities, customer behavior, and business performance?"**
 
 ---
 
-# 🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
 
 | Tool | Purpose |
 |---|---|
-| 🐍 Python | Data analysis & processing |
-| 🐼 Pandas | Data cleaning & manipulation |
-| 🔢 NumPy | Numerical operations |
-| 📊 Matplotlib | Data visualization |
-| 📈 Plotly | Interactive dashboards |
-| 📒 Jupyter Notebook | Development environment |
-
-
----
-
-# 🔍 Data Analysis Workflow
-
-## 1️⃣ Data Cleaning & Preparation
-
-Performed:
-
-✅ Handling missing values  
-✅ Data type conversion  
-✅ Removing inconsistencies  
-✅ Preparing dataset for analysis  
-
+| 🐍 Python | Data Analysis & Processing |
+| 🐼 Pandas | Data Cleaning & Manipulation |
+| 🔢 NumPy | Numerical Operations |
+| 📊 Matplotlib | Data Visualization |
+| 📈 Plotly | Interactive Charts |
+| 📒 Jupyter Notebook | Development Environment |
 
 ---
 
-# 📊 Key Analysis Performed
+## 🔄 Analysis Workflow
 
+### 🧹 Data Cleaning & Preparation
+- Handling missing values
+- Data type conversion
+- Data consistency checking
+- Preparing dataset for analysis
 
-## 📅 Monthly Sales Trend
+### 📊 Exploratory Data Analysis (EDA)
 
-Analyzed month-wise revenue changes to identify:
+**📅 Monthly Sales Trend**
+- Identified revenue growth patterns
+- Found peak and low-performing periods
 
-- Growth patterns
-- Peak sales periods
-- Low-performing months
+**📆 Daily Sales Analysis**
+- Studied order behavior
+- Analyzed demand fluctuations
 
+**🍽️ Food Category Analysis**
+- Compared Vegetarian vs Non-Vegetarian sales
+- Analyzed customer preferences
 
----
+**🌎 State-wise Revenue Analysis**
+- Identified top-performing regions
+- Studied revenue distribution
 
-## 📆 Daily Sales Trend
+**🏙️ City Performance Analysis**
+- Found highest revenue-generating cities
+- Compared market contribution
 
-Studied daily order variations to understand:
-
-- Customer ordering behavior
-- High demand days
-- Sales consistency
-
-
----
-
-## 🍽️ Sales by Food Type
-
-Compared:
-
-🥗 Vegetarian Orders  
-🍗 Non-Vegetarian Orders  
-
-
-Insights:
-
-- Contribution of different food categories
-- Customer preference analysis
-
+**⭐ Customer Rating Analysis**
+- Analyzed customer satisfaction
+- Studied rating patterns
 
 ---
 
-## 🌎 State-wise Revenue Analysis
-
-Created geographical analysis to identify:
-
-- Top performing states
-- Revenue distribution
-- Regional opportunities
-
-
----
-
-## 🏙️ Top 5 Cities by Sales
-
-Analyzed cities generating maximum revenue.
-
-Key metrics:
-
-- Total sales
-- City contribution
-- Market performance
-
-
----
-
-## ⭐ Customer Rating Analysis
-
-Studied:
-
-- Average ratings
-- Customer satisfaction level
-- Review patterns
-
-
----
-
-# 📌 Dashboard KPIs
-
+## 📌 Dashboard KPIs
 
 | KPI | Description |
 |-|-|
 | 💰 Total Sales | Overall revenue generated |
-| ⭐ Average Rating | Customer satisfaction indicator |
 | 🛒 Total Orders | Number of completed orders |
+| ⭐ Average Rating | Customer satisfaction indicator |
 | 📦 Average Order Value | Revenue per order |
 | 📝 Ratings Count | Customer feedback volume |
 
-
 ---
 
-# 📈 Dashboard Features
-
+## 📈 Dashboard Features
 
 ✨ Interactive Sales Dashboard  
-✨ Monthly & Daily Trend Analysis  
-✨ Food Category Comparison  
-✨ State Level Revenue Map  
-✨ City Performance Ranking  
-✨ KPI Monitoring Dashboard  
-
+✨ Monthly & Daily Sales Trends  
+✨ Category-wise Comparison  
+✨ State-level Revenue Analysis  
+✨ City Ranking Dashboard  
+✨ KPI Performance Tracking  
 
 ---
 
-# 📷 Dashboard Preview
+## 📷 Dashboard Preview
 
+### Sales Analysis Dashboard
+![Swiggy Dashboard](01Swiggy%20Analysis.png)
 
-## Sales Analysis Dashboard
-
-![Swiggy Dashboard](01Swiggy%20Analysis%20.png)
-
-
-## KPI Dashboard
-
+### KPI Dashboard
 ![Swiggy KPI Dashboard](02Swiggy%20Analysis.png)
 
+---
+
+## 💡 Business Insights Generated
+
+✔ Identified highest revenue-generating cities and states  
+✔ Compared food category demand patterns  
+✔ Evaluated customer satisfaction through ratings  
+✔ Discovered sales trends and fluctuations  
+✔ Generated insights for business growth strategies  
 
 ---
 
-# 💡 Business Insights Generated
+## 🚀 Project Outcome
 
+This project demonstrates the complete analytics process:
 
-🔹 Identified highest revenue contributing cities  
+**Raw Data → Data Cleaning → EDA → Visualization → Business Insights → Dashboard**
 
-🔹 Compared vegetarian vs non-vegetarian demand  
+Skills demonstrated:
 
-🔹 Analyzed customer satisfaction through ratings  
-
-🔹 Found sales fluctuations over different periods  
-
-🔹 Helped understand regional performance  
-
-
----
-
-# 🚀 Project Outcome
-
-This project demonstrates how raw food delivery data can be transformed into meaningful business insights using:
-
-- Data Cleaning
+- Data Analysis
 - Exploratory Data Analysis
-- Visualization
+- Data Visualization
 - Dashboard Storytelling
-
+- Business Intelligence
 
 ---
 
+## 📂 Project Structure
 Swiggy-Analysis-ft-Python/
-│
-├── 📁 Dataset/
-│   └── swiggy_data.xlsx
-│
-├── 📁 Notebook/
-│   └── Swiggy_Sales_Analysis.ipynb
-│
-├── 📁 Dashboard/
-│   ├── 01_Swiggy Analysis.png
-│   └── 02_Swiggy Analysis.png
-│
-├── 📁 Reports/
-│   └── Swiggy_Analysis_Report.pdf 
-│
-├── 📁 Images/
-│   └── project_banner.png
-│
-├── README.md
 
---
-This following project is prepared under guidence of Data Tutorial
+├── Dataset/
+│ └── swiggy_data.xlsx
 
+├── Notebook/
+│ └── Swiggy_Sales_Analysis.ipynb
+
+├── Dashboard/
+│ ├── 01_Swiggy_Analysis.png
+│ └── 02_Swiggy_Analysis.png
+
+├── Reports/
+│ └── Swiggy_Analysis_Report.pdf
+
+├── Images/
+│ └── project_banner.png
+
+└── README.md
+---
+## 📚 Project Reference
+
+Prepared under the guidance of **Data Tutorial**
 
 ---
 
 # 👨‍💻 Author
 
-**Abhinav**
+## Abhinav
 
+📊 Data Analytics Enthusiast
 
-Data Analytics Enthusiast  
-Skills: Python | SQL | Excel | Power BI | Data Visualization
-
-
----
+**Skills:**  
+Python | SQL | Excel | Power BI | Data Visualization | EDA
