@@ -206,4 +206,27 @@ This project demonstrates how raw food delivery data can be transformed into mea
 ---
 
 # 📂 Project Structure
+Swiggy-Data-Analysis/
 
+│
+├── 
+│
+├── Dataset/
+│
+├── Dashboard Images/
+│
+└── README.md
+
+
+
+---
+
+# 👨‍💻 Author
+
+**Abhinav**
+
+Data Analytics Enthusiast  
+Skills: Python | SQL | Excel | Power BI | Data Visualization
+
+
+---
