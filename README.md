@@ -214,11 +214,11 @@ Swiggy-Analysis-ft-Python/
 │   └── Swiggy_Sales_Analysis.ipynb
 │
 ├── 📁 Dashboard/
-│   ├── 01_Swiggy_Sales_Dashboard.png
-│   └── 02_Swiggy_KPI_Dashboard.png
+│   ├── 01_Swiggy Analysis.png
+│   └── 02_Swiggy Analysis.png
 │
 ├── 📁 Reports/
-│   └── Swiggy_Analysis_Report.pdf   (optional)
+│   └── Swiggy_Analysis_Report.pdf 
 │
 ├── 📁 Images/
 │   └── project_banner.png
