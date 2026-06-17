@@ -225,7 +225,8 @@ Swiggy-Analysis-ft-Python/
 │
 ├── README.md
 
-
+--
+This following project is prepared under guidence of Data Tutorial
 
 
 ---
@@ -233,7 +234,7 @@ Swiggy-Analysis-ft-Python/
 # 👨‍💻 Author
 
 **Abhinav**
-in guidence of yt channel Data Tutorial
+
 
 Data Analytics Enthusiast  
 Skills: Python | SQL | Excel | Power BI | Data Visualization
