@@ -205,6 +205,25 @@ This project demonstrates how raw food delivery data can be transformed into mea
 
 ---
 
+Swiggy-Analysis-ft-Python/
+│
+├── 📁 Dataset/
+│   └── swiggy_data.xlsx
+│
+├── 📁 Notebook/
+│   └── Swiggy_Sales_Analysis.ipynb
+│
+├── 📁 Dashboard/
+│   ├── 01_Swiggy_Sales_Dashboard.png
+│   └── 02_Swiggy_KPI_Dashboard.png
+│
+├── 📁 Reports/
+│   └── Swiggy_Analysis_Report.pdf   (optional)
+│
+├── 📁 Images/
+│   └── project_banner.png
+│
+├── README.md
 
 
 
