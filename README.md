@@ -1,162 +1,85 @@
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FC8019&height=220&section=header&text=Swiggy%20Sales%20Analysis&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FC8019&height=220&section=header&text=Swiggy%20Sales%20Analysis&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
 <h1 align="center">🍔 Swiggy Sales Data Analysis & Business Insights Dashboard</h1>
 
 <!-- Typing Animation -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=FC8019&center=true&vCenter=true&width=900&lines=Python+Data+Analysis;Exploratory+Data+Analysis+(EDA);Interactive+Business+Dashboard;Business+Insights+using+Python"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=FC8019&center=true&vCenter=true&width=850&lines=Python+Data+Analysis;Exploratory+Data+Analysis+(EDA);Interactive+Business+Dashboard;Business+Insights+with+Python" alt="Typing SVG" />
 </p>
 
 <!-- Badges -->
 <p align="center">
-
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-EDA-green?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-Computing-orange?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-purple?style=for-the-badge)
-
+  <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Pandas-EDA-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/NumPy-Computing-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Plotly-Interactive%20Charts-purple?style=for-the-badge">
 </p>
 
-<!-- Animated Skills -->
+<!-- Skills -->
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pandas,mysql,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode" />
 </p>
 
 ---
 
-# 📌 Project Overview
+## 📌 Project Overview
 
-This project analyzes **Swiggy food delivery sales data** using Python-based data analytics techniques to uncover meaningful business insights.
-
-The project focuses on understanding sales trends, customer preferences, food category performance, and regional revenue contribution through **Exploratory Data Analysis (EDA)** and interactive visualizations.
+This project analyzes **Swiggy food delivery sales data** using Python to uncover meaningful business insights through **Exploratory Data Analysis (EDA)** and interactive visualizations.
 
 ---
 
-# 🎯 Business Problem
+## 🎯 Business Problem
 
-Food delivery platforms generate large amounts of sales data.
-
-This analysis answers:
-
-> **How can sales data be analyzed to identify growth opportunities, customer behavior, and business performance?**
+**How can sales data be analyzed to identify customer behavior, revenue trends, and business growth opportunities?**
 
 ---
 
-# 🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
 
 | Tool | Purpose |
-|---|---|
-| 🐍 Python | Data Analysis & Processing |
-| 🐼 Pandas | Data Cleaning & Manipulation |
+|------|---------|
+| 🐍 Python | Data Analysis |
+| 🐼 Pandas | Data Cleaning |
 | 🔢 NumPy | Numerical Operations |
-| 📊 Matplotlib | Data Visualization |
+| 📊 Matplotlib | Visualization |
 | 📈 Plotly | Interactive Charts |
-| 📒 Jupyter Notebook | Development Environment |
+| 📒 Jupyter Notebook | Development |
 
 ---
 
-# 🔄 Analysis Workflow
+## 🔄 Analysis Workflow
 
 ```text
-              Raw Dataset
-                   │
-                   ▼
-         Data Cleaning
-                   │
-                   ▼
-      Exploratory Data Analysis
-                   │
-                   ▼
-          Business Insights
-                   │
-                   ▼
-      Interactive Dashboard
+Raw Data
+   │
+   ▼
+Data Cleaning
+   │
+   ▼
+Exploratory Data Analysis
+   │
+   ▼
+Business Insights
+   │
+   ▼
+Dashboard
 ```
 
-### 🧹 Data Cleaning & Preparation
-
-- Handling missing values
-- Data type conversion
-- Data consistency checking
-- Preparing dataset for analysis
-
 ---
 
-### 📊 Exploratory Data Analysis
+## 📷 Dashboard Preview
 
-#### 📅 Monthly Sales Trend
-
-- Identified revenue growth patterns
-- Found peak and low-performing periods
-
-#### 📆 Daily Sales Analysis
-
-- Studied order behavior
-- Analyzed demand fluctuations
-
-#### 🍽️ Food Category Analysis
-
-- Compared Vegetarian vs Non-Vegetarian sales
-- Analyzed customer preferences
-
-#### 🌎 State-wise Revenue Analysis
-
-- Identified top-performing regions
-- Studied revenue distribution
-
-#### 🏙️ City Performance Analysis
-
-- Found highest revenue-generating cities
-- Compared market contribution
-
-#### ⭐ Customer Rating Analysis
-
-- Analyzed customer satisfaction
-- Studied rating patterns
-
----
-
-# 📌 Dashboard KPIs
-
-| KPI | Description |
-|---|---|
-| 💰 Total Sales | Overall revenue generated |
-| 🛒 Total Orders | Number of completed orders |
-| ⭐ Average Rating | Customer satisfaction indicator |
-| 📦 Average Order Value | Revenue per order |
-| 📝 Ratings Count | Customer feedback volume |
-
----
-
-# 📈 Dashboard Features
-
-✨ Interactive Sales Dashboard
-
-✨ Monthly & Daily Sales Trends
-
-✨ Category-wise Comparison
-
-✨ State-level Revenue Analysis
-
-✨ City Ranking Dashboard
-
-✨ KPI Performance Tracking
-
----
-
-# 📷 Dashboard Preview
-
-## 📊 Sales Analysis Dashboard
+### Sales Dashboard
 
 <p align="center">
 <img src="01Swiggy%20Analysis.png" width="900">
 </p>
 
----
-
-## 📈 KPI Dashboard
+### KPI Dashboard
 
 <p align="center">
 <img src="02Swiggy%20Analysis.png" width="900">
@@ -164,47 +87,31 @@ This analysis answers:
 
 ---
 
-# 💡 Business Insights Generated
+## 📌 Dashboard KPIs
 
-✔ Highest revenue-generating cities and states
-
-✔ Food category demand comparison
-
-✔ Customer satisfaction analysis
-
-✔ Monthly and daily sales trends
-
-✔ Business growth opportunities
+- 💰 Total Sales
+- 🛒 Total Orders
+- ⭐ Average Rating
+- 📦 Average Order Value
+- 📝 Ratings Count
 
 ---
 
-# 🚀 Project Outcome
+## 💡 Business Insights
 
-```text
-Raw Data
-    ↓
-Data Cleaning
-    ↓
-EDA
-    ↓
-Visualization
-    ↓
-Business Insights
-    ↓
-Dashboard
-```
+✔ Highest revenue-generating cities
 
-### Skills Demonstrated
+✔ State-wise revenue contribution
 
-- Data Analysis
-- Exploratory Data Analysis
-- Data Visualization
-- Dashboard Storytelling
-- Business Intelligence
+✔ Customer rating analysis
+
+✔ Monthly & Daily sales trends
+
+✔ Category-wise performance
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 ```text
 Swiggy-Analysis-ft-Python/
@@ -222,23 +129,14 @@ Swiggy-Analysis-ft-Python/
 ├── Reports/
 │   └── Swiggy_Analysis_Report.pdf
 │
-├── Images/
-│   └── project_banner.png
-│
 └── README.md
 ```
 
 ---
 
-# 📚 Project Reference
+## 👨‍💻 Author
 
-Prepared under the guidance of **Data Tutorial**
-
----
-
-# 👨‍💻 Author
-
-## Abhinav
+### Abhinav
 
 📊 Data Analytics Enthusiast
 
@@ -248,26 +146,6 @@ Python • SQL • Excel • Power BI • Data Visualization • EDA
 
 ---
 
-<!-- Animated Footer -->
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FC8019&height=120&section=footer"/>
-</p>
-✨ Bonus (Highly Recommended)
-
-To make it look even more impressive, add these:
-
-📈 GitHub Stats Card
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhi03985&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi03985&layout=compact&theme=tokyonight"/>
-</p>
-👀 Visitor Counter
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=abhi03985&style=for-the-badge&color=orange"/>
-</p>
-🎞️ Animated Dashboard
-Create a GIF that alternates between 01Swiggy Analysis.png and 02Swiggy Analysis.png, save it as dashboard.gif, then use:
-<p align="center">
-<img src="Images/dashboard.gif" width="900"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FC8019&height=120&section=footer"/>
 </p>
