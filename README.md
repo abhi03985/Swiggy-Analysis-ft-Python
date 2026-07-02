@@ -1,5 +1,15 @@
-# 🍔 Swiggy Sales Data Analysis & Business Insights Dashboard
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FC8019&height=220&section=header&text=Swiggy%20Sales%20Analysis&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
+<h1 align="center">🍔 Swiggy Sales Data Analysis & Business Insights Dashboard</h1>
+
+<!-- Typing Animation -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=FC8019&center=true&vCenter=true&width=900&lines=Python+Data+Analysis;Exploratory+Data+Analysis+(EDA);Interactive+Business+Dashboard;Business+Insights+using+Python"/>
+</p>
+
+<!-- Badges -->
+<p align="center">
 
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-EDA-green?style=for-the-badge)
@@ -7,7 +17,16 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-purple?style=for-the-badge)
 
-## 📌 Project Overview
+</p>
+
+<!-- Animated Skills -->
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pandas,mysql,github,vscode"/>
+</p>
+
+---
+
+# 📌 Project Overview
 
 This project analyzes **Swiggy food delivery sales data** using Python-based data analytics techniques to uncover meaningful business insights.
 
@@ -15,15 +34,17 @@ The project focuses on understanding sales trends, customer preferences, food ca
 
 ---
 
-## 🎯 Business Problem
+# 🎯 Business Problem
 
-Food delivery platforms generate large amounts of sales data. This analysis aims to answer:
+Food delivery platforms generate large amounts of sales data.
 
-**"How can sales data be analyzed to identify growth opportunities, customer behavior, and business performance?"**
+This analysis answers:
+
+> **How can sales data be analyzed to identify growth opportunities, customer behavior, and business performance?**
 
 ---
 
-## 🛠️ Tools & Technologies Used
+# 🛠️ Tools & Technologies Used
 
 | Tool | Purpose |
 |---|---|
@@ -36,46 +57,71 @@ Food delivery platforms generate large amounts of sales data. This analysis aims
 
 ---
 
-## 🔄 Analysis Workflow
+# 🔄 Analysis Workflow
+
+```text
+              Raw Dataset
+                   │
+                   ▼
+         Data Cleaning
+                   │
+                   ▼
+      Exploratory Data Analysis
+                   │
+                   ▼
+          Business Insights
+                   │
+                   ▼
+      Interactive Dashboard
+```
 
 ### 🧹 Data Cleaning & Preparation
+
 - Handling missing values
 - Data type conversion
 - Data consistency checking
 - Preparing dataset for analysis
 
-### 📊 Exploratory Data Analysis (EDA)
+---
 
-**📅 Monthly Sales Trend**
+### 📊 Exploratory Data Analysis
+
+#### 📅 Monthly Sales Trend
+
 - Identified revenue growth patterns
 - Found peak and low-performing periods
 
-**📆 Daily Sales Analysis**
+#### 📆 Daily Sales Analysis
+
 - Studied order behavior
 - Analyzed demand fluctuations
 
-**🍽️ Food Category Analysis**
+#### 🍽️ Food Category Analysis
+
 - Compared Vegetarian vs Non-Vegetarian sales
 - Analyzed customer preferences
 
-**🌎 State-wise Revenue Analysis**
+#### 🌎 State-wise Revenue Analysis
+
 - Identified top-performing regions
 - Studied revenue distribution
 
-**🏙️ City Performance Analysis**
+#### 🏙️ City Performance Analysis
+
 - Found highest revenue-generating cities
 - Compared market contribution
 
-**⭐ Customer Rating Analysis**
+#### ⭐ Customer Rating Analysis
+
 - Analyzed customer satisfaction
 - Studied rating patterns
 
 ---
 
-## 📌 Dashboard KPIs
+# 📌 Dashboard KPIs
 
 | KPI | Description |
-|-|-|
+|---|---|
 | 💰 Total Sales | Overall revenue generated |
 | 🛒 Total Orders | Number of completed orders |
 | ⭐ Average Rating | Customer satisfaction indicator |
@@ -84,44 +130,71 @@ Food delivery platforms generate large amounts of sales data. This analysis aims
 
 ---
 
-## 📈 Dashboard Features
+# 📈 Dashboard Features
 
-✨ Interactive Sales Dashboard  
-✨ Monthly & Daily Sales Trends  
-✨ Category-wise Comparison  
-✨ State-level Revenue Analysis  
-✨ City Ranking Dashboard  
-✨ KPI Performance Tracking  
+✨ Interactive Sales Dashboard
 
----
+✨ Monthly & Daily Sales Trends
 
-## 📷 Dashboard Preview
+✨ Category-wise Comparison
 
-### Sales Analysis Dashboard
-![Swiggy Dashboard](01Swiggy%20Analysis.png)
+✨ State-level Revenue Analysis
 
-### KPI Dashboard
-![Swiggy KPI Dashboard](02Swiggy%20Analysis.png)
+✨ City Ranking Dashboard
+
+✨ KPI Performance Tracking
 
 ---
 
-## 💡 Business Insights Generated
+# 📷 Dashboard Preview
 
-✔ Identified highest revenue-generating cities and states  
-✔ Compared food category demand patterns  
-✔ Evaluated customer satisfaction through ratings  
-✔ Discovered sales trends and fluctuations  
-✔ Generated insights for business growth strategies  
+## 📊 Sales Analysis Dashboard
+
+<p align="center">
+<img src="01Swiggy%20Analysis.png" width="900">
+</p>
 
 ---
 
-## 🚀 Project Outcome
+## 📈 KPI Dashboard
 
-This project demonstrates the complete analytics process:
+<p align="center">
+<img src="02Swiggy%20Analysis.png" width="900">
+</p>
 
-**Raw Data → Data Cleaning → EDA → Visualization → Business Insights → Dashboard**
+---
 
-Skills demonstrated:
+# 💡 Business Insights Generated
+
+✔ Highest revenue-generating cities and states
+
+✔ Food category demand comparison
+
+✔ Customer satisfaction analysis
+
+✔ Monthly and daily sales trends
+
+✔ Business growth opportunities
+
+---
+
+# 🚀 Project Outcome
+
+```text
+Raw Data
+    ↓
+Data Cleaning
+    ↓
+EDA
+    ↓
+Visualization
+    ↓
+Business Insights
+    ↓
+Dashboard
+```
+
+### Skills Demonstrated
 
 - Data Analysis
 - Exploratory Data Analysis
@@ -131,28 +204,33 @@ Skills demonstrated:
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
+
+```text
 Swiggy-Analysis-ft-Python/
-
+│
 ├── Dataset/
-│ └── swiggy_data.xlsx
-
+│   └── swiggy_data.xlsx
+│
 ├── Notebook/
-│ └── Swiggy_Sales_Analysis.ipynb
-
+│   └── Swiggy_Sales_Analysis.ipynb
+│
 ├── Dashboard/
-│ ├── 01_Swiggy_Analysis.png
-│ └── 02_Swiggy_Analysis.png
-
+│   ├── 01Swiggy Analysis.png
+│   └── 02Swiggy Analysis.png
+│
 ├── Reports/
-│ └── Swiggy_Analysis_Report.pdf
-
+│   └── Swiggy_Analysis_Report.pdf
+│
 ├── Images/
-│ └── project_banner.png
-
+│   └── project_banner.png
+│
 └── README.md
+```
+
 ---
-## 📚 Project Reference
+
+# 📚 Project Reference
 
 Prepared under the guidance of **Data Tutorial**
 
@@ -164,5 +242,32 @@ Prepared under the guidance of **Data Tutorial**
 
 📊 Data Analytics Enthusiast
 
-**Skills:**  
-Python | SQL | Excel | Power BI | Data Visualization | EDA
+**Skills**
+
+Python • SQL • Excel • Power BI • Data Visualization • EDA
+
+---
+
+<!-- Animated Footer -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FC8019&height=120&section=footer"/>
+</p>
+✨ Bonus (Highly Recommended)
+
+To make it look even more impressive, add these:
+
+📈 GitHub Stats Card
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhi03985&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi03985&layout=compact&theme=tokyonight"/>
+</p>
+👀 Visitor Counter
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=abhi03985&style=for-the-badge&color=orange"/>
+</p>
+🎞️ Animated Dashboard
+Create a GIF that alternates between 01Swiggy Analysis.png and 02Swiggy Analysis.png, save it as dashboard.gif, then use:
+<p align="center">
+<img src="Images/dashboard.gif" width="900"/>
+</p>
