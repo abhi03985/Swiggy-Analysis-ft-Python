@@ -1,7 +1,5 @@
 # 🍔 Swiggy Sales Data Analysis & Business Insights Dashboard
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=FF6B35&center=true&vCenter=true&width=900&lines=Swiggy+Sales+Data+Analysis;Python+EDA+Project;Business+Insights+Dashboard;Data+Visualization+using+Python" alt="Typing SVG" />
-</p>
+
 
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-EDA-green?style=for-the-badge)
