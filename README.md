@@ -1,151 +1,302 @@
-<!-- Animated Header -->
+<!--==============================-->
+<!--        Animated Header       -->
+<!--==============================-->
+
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FC8019&height=220&section=header&text=Swiggy%20Sales%20Analysis&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=FC8019&text=Swiggy%20Sales%20Analysis&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <h1 align="center">🍔 Swiggy Sales Data Analysis & Business Insights Dashboard</h1>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=FC8019&center=true&vCenter=true&width=850&lines=Python+Data+Analysis;Exploratory+Data+Analysis+(EDA);Interactive+Business+Dashboard;Business+Insights+with+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&duration=3500&center=true&vCenter=true&width=900&color=FC8019&lines=Python+Data+Analytics+Project;Exploratory+Data+Analysis+(EDA);Interactive+Business+Dashboard;Data-Driven+Business+Insights" />
 </p>
 
-<!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/Pandas-EDA-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/NumPy-Computing-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Matplotlib-Visualization-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Plotly-Interactive%20Charts-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
-<!-- Skills -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode" />
 </p>
 
 ---
 
-## 📌 Project Overview
+# 📖 About the Project
 
-This project analyzes **Swiggy food delivery sales data** using Python to uncover meaningful business insights through **Exploratory Data Analysis (EDA)** and interactive visualizations.
+This project performs an **end-to-end sales analysis of Swiggy food delivery data** using Python.
+
+The workflow covers:
+
+- 🧹 Data Cleaning
+- 📊 Exploratory Data Analysis (EDA)
+- 📈 Interactive Visualizations
+- 💡 Business Insights
+- 📋 KPI Dashboard
+
+The objective is to transform raw sales data into meaningful insights that help understand customer behavior, regional performance, revenue trends, and business opportunities.
 
 ---
 
-## 🎯 Business Problem
+# 🎯 Business Problem
 
-**How can sales data be analyzed to identify customer behavior, revenue trends, and business growth opportunities?**
+Food delivery companies generate millions of transactions.
+
+This project answers questions such as:
+
+- 📍 Which cities generate the highest revenue?
+- 📈 How are sales changing over time?
+- 🍽 Which food categories perform best?
+- ⭐ How satisfied are customers?
+- 🌍 Which states contribute the most revenue?
 
 ---
 
-## 🛠️ Tools & Technologies Used
+# 🛠 Tech Stack
 
-| Tool | Purpose |
-|------|---------|
+| Technology | Purpose |
+|------------|----------|
 | 🐍 Python | Data Analysis |
 | 🐼 Pandas | Data Cleaning |
-| 🔢 NumPy | Numerical Operations |
+| 🔢 NumPy | Numerical Computing |
 | 📊 Matplotlib | Visualization |
 | 📈 Plotly | Interactive Charts |
 | 📒 Jupyter Notebook | Development |
 
 ---
 
-## 🔄 Analysis Workflow
+# ⚙️ Project Workflow
+
+```text
+             Raw Dataset
+                  │
+                  ▼
+         Data Cleaning
+                  │
+                  ▼
+     Exploratory Data Analysis
+                  │
+                  ▼
+      Business Insights
+                  │
+                  ▼
+        Interactive Dashboard
+                  │
+                  ▼
+       Decision Making
+```
+
+---
+
+# 📊 Analysis Performed
+
+### 🧹 Data Cleaning
+
+- Missing value treatment
+- Duplicate removal
+- Data type conversion
+- Consistency checks
+
+---
+
+### 📅 Monthly Sales Trend
+
+- Revenue trend
+- Growth analysis
+- Peak month identification
+
+---
+
+### 📆 Daily Sales Analysis
+
+- Daily order pattern
+- Demand fluctuations
+- Revenue comparison
+
+---
+
+### 🍔 Food Category Analysis
+
+- Vegetarian vs Non-Vegetarian
+- Category popularity
+- Customer preference
+
+---
+
+### 🌍 State-wise Revenue
+
+- Top-performing states
+- Revenue contribution
+- Regional comparison
+
+---
+
+### 🏙 City Performance
+
+- Highest revenue cities
+- City ranking
+- Market contribution
+
+---
+
+### ⭐ Customer Ratings
+
+- Average rating
+- Rating distribution
+- Customer satisfaction
+
+---
+
+# 📌 Dashboard KPIs
+
+| KPI | Description |
+|------|-------------|
+| 💰 Total Sales | Overall Revenue |
+| 🛒 Total Orders | Completed Orders |
+| ⭐ Average Rating | Customer Satisfaction |
+| 📦 Average Order Value | Revenue per Order |
+| 📝 Rating Count | Customer Reviews |
+
+---
+
+# 🖼 Dashboard Preview
+
+## 📊 Sales Dashboard
+
+<p align="center">
+<img src="Images/dashboard1.png" width="900">
+</p>
+
+---
+
+## 📈 KPI Dashboard
+
+<p align="center">
+<img src="Images/dashboard2.png" width="900">
+</p>
+
+---
+
+# 💡 Key Business Insights
+
+✅ Highest revenue generated by major metropolitan cities.
+
+✅ Significant monthly fluctuations indicate seasonal demand.
+
+✅ Customer ratings remain consistently positive.
+
+✅ Revenue distribution highlights high-performing states.
+
+✅ Dashboard enables faster business decision-making.
+
+---
+
+# 🚀 Project Outcome
 
 ```text
 Raw Data
-   │
-   ▼
-Data Cleaning
-   │
-   ▼
-Exploratory Data Analysis
-   │
-   ▼
+     │
+     ▼
+Cleaning
+     │
+     ▼
+EDA
+     │
+     ▼
+Visualization
+     │
+     ▼
 Business Insights
-   │
-   ▼
+     │
+     ▼
 Dashboard
 ```
 
 ---
 
-## 📷 Dashboard Preview
-
-### Sales Dashboard
-
-<p align="center">
-<img src="01Swiggy%20Analysis.png" width="900">
-</p>
-
-### KPI Dashboard
-
-<p align="center">
-<img src="02Swiggy%20Analysis.png" width="900">
-</p>
-
----
-
-## 📌 Dashboard KPIs
-
-- 💰 Total Sales
-- 🛒 Total Orders
-- ⭐ Average Rating
-- 📦 Average Order Value
-- 📝 Ratings Count
-
----
-
-## 💡 Business Insights
-
-✔ Highest revenue-generating cities
-
-✔ State-wise revenue contribution
-
-✔ Customer rating analysis
-
-✔ Monthly & Daily sales trends
-
-✔ Category-wise performance
-
----
-
-## 📂 Project Structure
+# 📂 Project Structure
 
 ```text
-Swiggy-Analysis-ft-Python/
+Swiggy-Analysis-ft-Python
 │
-├── Dataset/
+├── Dataset
 │   └── swiggy_data.xlsx
 │
-├── Notebook/
+├── Notebook
 │   └── Swiggy_Sales_Analysis.ipynb
 │
-├── Dashboard/
-│   ├── 01Swiggy Analysis.png
-│   └── 02Swiggy Analysis.png
+├── Dashboard
+│   ├── dashboard1.png
+│   └── dashboard2.png
 │
-├── Reports/
-│   └── Swiggy_Analysis_Report.pdf
+├── Images
+│   ├── dashboard1.png
+│   ├── dashboard2.png
+│   └── banner.png
+│
+├── Reports
+│   └── Swiggy_Report.pdf
 │
 └── README.md
 ```
 
 ---
 
-## 👨‍💻 Author
+# 🚀 Getting Started
 
-### Abhinav
+Clone the repository
 
-📊 Data Analytics Enthusiast
+```bash
+git clone https://github.com/abhi03985/Swiggy-Analysis-ft-Python.git
+```
 
-**Skills**
+Install dependencies
 
-Python • SQL • Excel • Power BI • Data Visualization • EDA
+```bash
+pip install pandas numpy matplotlib plotly openpyxl
+```
+
+Launch Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+---
+
+# 📈 Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Python Programming
+- Data Visualization
+- Dashboard Design
+- Business Intelligence
+- Analytical Thinking
+- Storytelling with Data
+
+---
+
+# 👨‍💻 Author
+
+## **Abhinav**
+
+📊 **Aspiring Data Analyst | Python | SQL | Excel | Power BI**
+
+> Passionate about turning raw data into meaningful business insights.
 
 ---
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FC8019&height=120&section=footer"/>
+
+### ⭐ If you found this project useful, consider giving it a Star!
+
+</p>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FC8019&section=footer"/>
 </p>
