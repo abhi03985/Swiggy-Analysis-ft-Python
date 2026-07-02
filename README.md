@@ -163,23 +163,6 @@ This project answers questions such as:
 
 ---
 
-# 🖼 Dashboard Preview
-
-## 📊 Sales Dashboard
-
-<p align="center">
-<img src="Images/dashboard1.png" width="900">
-</p>
-
----
-
-## 📈 KPI Dashboard
-
-<p align="center">
-<img src="Images/dashboard2.png" width="900">
-</p>
-
----
 
 # 💡 Key Business Insights
 
